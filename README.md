@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -40,4 +40,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # next-weather-app
 It's a city based weather app. You can write a city name and the weather condition will be displayed.
->>>>>>> 6caba7eb8d8467b8a7577521b661fce16c4f5eea
+
