@@ -1,0 +1,30 @@
+.detailsReport {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  padding: 2rem 0 4rem;
+}
+
+.details {
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+}
+
+.values {
+  font-size: 1.6rem;
+  color: #269ceb;
+}
+
+.backContainer {
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  border: none;
+  background: rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+  padding: 1.4rem 2rem;
+  border-radius: 0 0 4px 4px;
+}
